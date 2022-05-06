@@ -1,4 +1,4 @@
-module github.com/AgentCosmic/xvalid
+module github.com/UlasSAYGINIM/xvalid
 
 go 1.14
 
